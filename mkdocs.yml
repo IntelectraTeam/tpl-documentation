@@ -1,0 +1,9 @@
+site_name: Documentation
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Playbooks: playbooks/
+  - REX: rex/
+  - Runbooks: runbooks/
